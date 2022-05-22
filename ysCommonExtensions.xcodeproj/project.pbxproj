@@ -19,6 +19,7 @@
 		43311C16282BE4B10050C0D7 /* Numberlic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43311C15282BE4B10050C0D7 /* Numberlic.swift */; };
 		43311C18282BE57F0050C0D7 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43311C17282BE57F0050C0D7 /* Array.swift */; };
 		43311C1D282BF9A90050C0D7 /* Optional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43311C1C282BF9A90050C0D7 /* Optional.swift */; };
+		43569C48283AA153006E4A47 /* UserDefaultSettable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43569C47283AA153006E4A47 /* UserDefaultSettable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		43311C15282BE4B10050C0D7 /* Numberlic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Numberlic.swift; sourceTree = "<group>"; };
 		43311C17282BE57F0050C0D7 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 		43311C1C282BF9A90050C0D7 /* Optional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optional.swift; sourceTree = "<group>"; };
+		43569C47283AA153006E4A47 /* UserDefaultSettable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultSettable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				43311C15282BE4B10050C0D7 /* Numberlic.swift */,
 				43311C17282BE57F0050C0D7 /* Array.swift */,
 				43311C1C282BF9A90050C0D7 /* Optional.swift */,
+				43569C47283AA153006E4A47 /* UserDefaultSettable.swift */,
 			);
 			path = ysCommonExtensions;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				43311C11282BD7910050C0D7 /* String.swift in Sources */,
 				43311C0F282BD77A0050C0D7 /* Date.swift in Sources */,
 				43311C14282BE4980050C0D7 /* UILabel.swift in Sources */,
+				43569C48283AA153006E4A47 /* UserDefaultSettable.swift in Sources */,
 				43311C04282B3DC90050C0D7 /* UIView.swift in Sources */,
 				43311C16282BE4B10050C0D7 /* Numberlic.swift in Sources */,
 				43311C1D282BF9A90050C0D7 /* Optional.swift in Sources */,
